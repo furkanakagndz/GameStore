@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/furkanakagunduz/projects/FETechnology/GameStore/GameStore.Api/GameStore.Api.csproj",
+      "projectUniqueName": "/Users/furkanakagunduz/projects/my_projects/GameStore/GameStore.Api/GameStore.Api.csproj",
       "projectName": "GameStore.Api",
-      "projectPath": "/Users/furkanakagunduz/projects/FETechnology/GameStore/GameStore.Api/GameStore.Api.csproj",
+      "projectPath": "/Users/furkanakagunduz/projects/my_projects/GameStore/GameStore.Api/GameStore.Api.csproj",
       "packagesPath": "/Users/furkanakagunduz/.nuget/packages/",
-      "outputPath": "/Users/furkanakagunduz/projects/FETechnology/GameStore/GameStore.Api/obj/",
+      "outputPath": "/Users/furkanakagunduz/projects/my_projects/GameStore/GameStore.Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/furkanakagunduz/.nuget/NuGet/NuGet.Config"
